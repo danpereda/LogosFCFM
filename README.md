@@ -35,3 +35,5 @@ Agradezco las colaboraciones de:
 - Carolina García: CEFIAS, CEIC, La radio Integral, Canal 6
 - Danitza Berríos: Asamblea de Geología
 - Steffano Pascualetti: INTA
+
+oActualizacion 2021
